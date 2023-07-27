@@ -23,3 +23,25 @@ Legenda:
 
 
 ## W przygotowaniu
+Lista tematów, która pojawi się na kanale, jeśli chcesz możesz śmiało zrobić merge requesta ze swoim tematem!
+
+
+1. Template Literal Types `#typescript`
+2. toReversed, toSpliced, toSorted `#javascript`
+3. with() `#javascript`
+4. Modyfikatory dostępu klas `#typescript`
+5. as const `#typescript`
+6. :has() `#css`
+7. specyficzność `#css`
+8. async/await `#javascript`
+9. type vs interface `#typescript`
+10. domknięcie - closure `#javascript`
+11. this `#javascript`
+12. event storage `#frontend`
+13. jsx vs html `#react`
+14. by reference vs by value `#javascript`
+15. Map vs `{}` `#javascript`
+16. tablica vs obiekt `#javascript`
+17. interface `{}` `#typescript`
+18. CSS properties `#css`
+19. structuredClone `#javascript`
