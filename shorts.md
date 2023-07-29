@@ -19,6 +19,7 @@ Legenda:
 | 6  | 21/07/2023  |  [Usuwanie pól z obiektu za pomocą destrukturyzacji w JavaScript](https://www.youtube.com/shorts/P3_hGJqNL9s) | JavaScript  | ❌  |
 | 7  | 24/07/2023  |  [Jak działa wbudowany typ Omit w TypeSCript](https://www.youtube.com/shorts/IlPSGr6IuSY) | TypeScript  | ❌  |
 | 8 | 26/07/2023  |  [Typ unknown vs typ any](https://www.youtube.com/shorts/wItISr_i34E) | TypeScript  | ❌  |
+| 9 | 28/07/2023  |  [as const w TypeScript](https://youtube.com/shorts/t4dm0EB3RDc) | TypeScript  | ❌  |
 
 
 
@@ -30,7 +31,7 @@ Lista tematów, która pojawi się na kanale, jeśli chcesz możesz śmiało zro
 2. toReversed, toSpliced, toSorted `#javascript`
 3. with() `#javascript`
 4. Modyfikatory dostępu klas `#typescript`
-5. as const `#typescript`
+5. ~~as const `#typescript`~~ ✅
 6. :has() `#css`
 7. specyficzność `#css`
 8. async/await `#javascript`
