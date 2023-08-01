@@ -20,14 +20,14 @@ Legenda:
 | 7  | 24/07/2023  |  [Jak działa wbudowany typ Omit w TypeSCript](https://www.youtube.com/shorts/IlPSGr6IuSY) | TypeScript  | ❌  |
 | 8 | 26/07/2023  |  [Typ unknown vs typ any](https://www.youtube.com/shorts/wItISr_i34E) | TypeScript  | ❌  |
 | 9 | 28/07/2023  |  [as const w TypeScript](https://youtube.com/shorts/t4dm0EB3RDc) | TypeScript  | ❌  |
-
+| 9 | 31/07/2023  |  [Template Literal Types](https://www.youtube.com/watch?v=gATLeEqhL2Q) | TypeScript  | [✅](https://github.com/wojky/kodwbutach/blob/main/source/%40shorts/template-literal-types.ts)  |
 
 
 ## W przygotowaniu
 Lista tematów, która pojawi się na kanale, jeśli chcesz możesz śmiało zrobić merge requesta ze swoim tematem!
 
 
-1. Template Literal Types `#typescript`
+1. ~~Template Literal Types `#typescript`~~ ✅
 2. toReversed, toSpliced, toSorted `#javascript`
 3. with() `#javascript`
 4. Modyfikatory dostępu klas `#typescript`
@@ -46,3 +46,4 @@ Lista tematów, która pojawi się na kanale, jeśli chcesz możesz śmiało zro
 17. interface `{}` `#typescript`
 18. CSS properties `#css`
 19. structuredClone `#javascript`
+20. Kompilacja TS'a do JS'a `#typescript`
