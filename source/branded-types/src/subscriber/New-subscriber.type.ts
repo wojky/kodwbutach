@@ -1,6 +1,6 @@
-import { Email } from "../email";
+import { Email } from "../utils/Email";
 
 export type NewSubscriber = {
   subscriberName: string;
   subscriberEmail: Email;
-}
+};

@@ -1,4 +1,5 @@
 import { Email } from "./Email.type";
+import { validEmail } from "./Email.validator";
 
 export function createEmailValue(emailLike: string) {
   assertEmail(emailLike);
